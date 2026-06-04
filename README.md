@@ -1,8 +1,8 @@
 <br clear="both">
 
-<h2 align="left">Eae! Eu sou o Tenório💙</h2>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=FFFFFF&width=435&lines=Eae!+Eu+sou+o+Tenório💙)
 ###
+
 
 <p align="left">💙 Estudante de DS - .  🩶 estudando: Java,Html,Css e React    -.   💙 ainda aprendendo tecnologias</p>
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
-</div>
+</div>  
 
 ###
 
