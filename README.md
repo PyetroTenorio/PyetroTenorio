@@ -1,6 +1,5 @@
 
 <br clear="both">
-<img align="right" height="150"  src="https://media1.tenor.com/m/6Rk6Z96eMIoAAAAC/gear-5-one-piece.gif"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=FFFFFF&width=435&lines=Eae!+Eu+sou+o+Tenório💙)
 ###
@@ -14,6 +13,7 @@
 
 ###
 
+<img align="right" height="150"  src="https://media1.tenor.com/m/6Rk6Z96eMIoAAAAC/gear-5-one-piece.gif"/>
 
 
 <div align="left">
