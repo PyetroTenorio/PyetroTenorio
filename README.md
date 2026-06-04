@@ -4,15 +4,17 @@
 
 ###
 
-<p align="left">-💙 Estudante de DS - .  🩶 estudando: Java,Html,Css e React    -.   💙 ainda aprendendo tecnologias</p>
+<p align="left">💙 Estudante de DS - .  🩶 estudando: Java,Html,Css e React    -.   💙 ainda aprendendo tecnologias</p>
+
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyetrotenorio&theme=discord_old_blurple)  ㅤㅤㅤㅤ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyetrotenorio&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyetrotenorio&theme=discord_old_blurple)
 
 ###
-<br clear="both">
-<img align="right" height="170" src="https://media1.tenor.com/m/6Rk6Z96eMIoAAAAC/gear-5-one-piece.gif"  />
 
-###
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyetrotenorio&theme=discord_old_blurple) ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyetrotenorio&theme=discord_old_blurple) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyetrotenorio&theme=discord_old_blurple) 
+<img align="right" height="150"  src="https://media1.tenor.com/m/6Rk6Z96eMIoAAAAC/gear-5-one-piece.gif"/>
+
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="33" alt="java logo"  />
