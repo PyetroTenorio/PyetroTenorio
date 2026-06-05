@@ -11,7 +11,7 @@
 </div>
 <br clear="both">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=FFFFFF&width=435&lines=Eae!+Eu+sou+o+Tenório💙)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=5000&color=FFFFFF&width=435&lines=Eae!+Eu+sou+o+Tenório💙)
 ###
 
 
@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 15 years old, currently living in Brazil. I not have fluency in English and I learning: Java,HTML,css and JavaScript, which helped me develop important skills such as creativity, communication,  analytical capability, community and social media management.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
@@ -43,7 +43,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyetrotenorio&theme=discord_old_blurple)
 
 ###
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=f4f5f7&width=250&lines=💙+Skills)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=5000&color=f4f5f7&width=250&lines=💙+Skills)
 <h2 </h2>
 
 ###
