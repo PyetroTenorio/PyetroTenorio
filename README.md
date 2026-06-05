@@ -6,15 +6,15 @@
 <br clear="both">
 
 
+<div align="right">
+  <img height="120" src="https://i.pinimg.com/originals/a4/51/ff/a451ff006c9382e706f5c2f4137747f2.gif"  />
+</div>
+
 
 <br clear="both">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=FFFFFF&width=435&lines=Eae!+Eu+sou+o+Tenório💙)
 ###
-
-<div align="right">
-  <img height="120" src="https://i.pinimg.com/originals/a4/51/ff/a451ff006c9382e706f5c2f4137747f2.gif"  />
-</div>
 
 
 <p align="left">💙 Estudante de DS - .  🩶 estudando: Java,Html,Css e React    -.   💙 ainda aprendendo tecnologias</p>
