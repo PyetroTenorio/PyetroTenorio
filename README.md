@@ -43,43 +43,45 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyetrotenorio&theme=discord_old_blurple)
 
 ###
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=f4f5f7&width=250&lines=💙+Skills)
+<h2 </h2>
 
-<h2 align="left">💙 Skills</h2>
+###
+<h3 align="left">Programming Languages (learning)✨</h3>
 
 ###
 
-<h3 align="left">Programming Languages</h3>
 
-###
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=200&color=2565AE&width=500&lines=Java;JavaScript;CSS;HTML)
 <div align="left">
- <img src="https://skillicons.dev/icons?i=java" height="33" alt="java logo"  />
+ <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
 </div>
 
 ###
 
-<h3 align="left">Tools & Frameworks</h3>
+<h3 align="left">Tools & Frameworks (learning)✨</h3> 
 
 ###
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=200&color=2565AE&width=500&lines=VScode;Bash;Figma;Git;Intellij;GitHub)
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
+   <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="vscode logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=bash" height="34" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="37" alt="bash logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="37" alt="figma logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="37" alt="git logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=idea" height="34" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="37" alt="intellijidea logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo"  />
 </div>
 
 ###
