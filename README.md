@@ -38,9 +38,23 @@
 </div>
 
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=PyetroTenorio&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyetrotenorio&theme=discord_old_blurple)  ㅤㅤㅤㅤ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyetrotenorio&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyetrotenorio&theme=discord_old_blurple)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=PyetroTenorio&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
+
 
 ###
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=5000&color=f4f5f7&width=250&lines=💙+Skills)
