@@ -44,19 +44,26 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=PyetroTenorio&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-stats-extended.vercel.app/api?username=PyetroTenorio&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=PyetroTenorio&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark"
   />
+
+<br>
+
+<br>
+
+<br>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=PyetroTenorio&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=PyetroTenorio&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=PyetroTenorio&layout=compact&langs_count=4&theme=github_dark" 
   />
 
 
 
 ###
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=5000&color=f4f5f7&width=250&lines=💙+Skills)
 <h2 </h2>
 
